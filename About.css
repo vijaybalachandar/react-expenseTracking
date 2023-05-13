@@ -1,0 +1,23 @@
+#vtwo3{
+    width: 1800px!important;
+    height: 700px!important;
+}
+#vthree3{
+    position: absolute;
+    top: 850px;
+    width: 1800px;
+    background-color: white;
+}
+#vone3{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.vfour3{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 200px;
+}
+.vfive3{
+    color: black;
+}
